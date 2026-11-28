@@ -2,20 +2,21 @@
 
 초대코드로 여행에 참여한 친구들이 공주에 가는 날, 몇 시에 어디서 만나기로 했는지 찾아보는 모바일 여행 플래너입니다. 홈에서 여행을 고르면 첫날의 약속이 시간순으로 보이고, 일정을 누르면 장소와 동행자의 메모를 읽을 수 있습니다.
 
-[**Figma 프로토타입 열기**](https://www.figma.com/proto/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=1-43&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [화면 흐름과 클릭 영역](figma/화면흐름_Hotspot.png) · [작업 로그](작업로그.md)
+[**Figma 프로젝트 보기**](https://www.figma.com/design/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=0-1) · [클릭 시연 시작](https://www.figma.com/proto/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=1-43&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [화면 흐름과 클릭 영역](figma/화면흐름_Hotspot.png) · [작업 로그](작업로그.md)
 
 | 항목 | 내용 |
 |---|---|
-| 프로젝트명 | 어디갈까 · 본과정 미션 4-1 세미나 A |
-| 서비스 한 줄 소개 | 동행자와 일정을 함께 짜고, 약속을 여행별로 확인하는 플래너 |
-| Figma 보기 링크 | [홈에서 시연 시작](https://www.figma.com/proto/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=1-43&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [디자인 파일](https://www.figma.com/design/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=0-1) |
+| 프로젝트명 | **어디갈까** |
+| 서비스 한 줄 소개 | 함께 짜는 여행 플래너 |
+| 과제 | 본과정 미션 4-1 · 세미나 A (AI 기반 UI/UX 디자인 시안 제작) |
+| Figma 프로젝트 링크 | [디자인 파일](https://www.figma.com/design/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=0-1) · [홈에서 시연 시작](https://www.figma.com/proto/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=1-43&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) |
 | 화면 흐름·Hotspot 캡처 | [세 화면과 연결선 원본 PNG](figma/화면흐름_Hotspot.png) |
 
 ## 최종 UI 시안
 
 | 홈 · 여행 고르기 | 여행 홈 · 첫날 일정 보기 | 일정 상세 · 약속 확인하기 |
 |:---:|:---:|:---:|
-| [<img src="ui/001_홈.png" width="205" alt="공주와 부산 여행 카드가 나란히 놓인 홈">](ui/001_홈.png) | [<img src="ui/002_여행_홈.png" width="205" alt="터미널 만남, 공산성 산책, 숙소 입실이 담긴 첫날 타임라인">](ui/002_여행_홈.png) | [<img src="ui/003_일정_상세.png" width="205" alt="공산성 산책의 시각, 장소, 연결 티켓과 댓글">](ui/003_일정_상세.png) |
+| [<img src="ui/화면1_메인.png" width="205" alt="공주와 부산 여행 카드가 나란히 놓인 홈">](ui/화면1_메인.png) | [<img src="ui/화면2_목록.png" width="205" alt="터미널 만남, 공산성 산책, 숙소 입실이 담긴 첫날 타임라인">](ui/화면2_목록.png) | [<img src="ui/화면3_상세.png" width="205" alt="공산성 산책의 시각, 장소, 연결 티켓과 댓글">](ui/화면3_상세.png) |
 | ‘친구들과 공주’를 선택합니다. | 15:00 ‘공산성 산책’을 누릅니다. | ‘성곽길 걷기’ 메모와 만날 곳을 확인합니다. |
 
 세 이미지는 각각 **1080 × 1920px, 세로 9:16 PNG**입니다. 시안을 누르면 원래 크기로 열립니다. 여행명·날짜·닉네임은 시연용 예시입니다.
@@ -48,7 +49,11 @@ Figma에서 위 네 동작을 직접 재생했습니다. 파일의 공유 설정
 | 여행 플래너 기획서와 엽서풍 디자인 명세 | 프로젝트에서 작성한 기획서와 작성자가 제공한 두 화면 참고 이미지를 토대로 화면 역할·분위기를 정리했습니다. [홈 초안에 적용한 내용](작업로그.md#home-draft) |
 | 공주 성곽·부산 바다와 일정 아이콘 | 이 프로젝트의 ChatGPT 생성 시안을 다음 수정의 참조 이미지로 사용했습니다. 홈의 풍경은 여행지를, 여행 홈의 버스·성곽·침대 아이콘은 일정 종류를 나타냅니다. [여행 홈 수정 기록](작업로그.md#timeline) |
 
-## 제출 문서
+## 최종 결과물
 
-- [작업 로그](작업로그.md)에 세 화면의 실제 입력 프롬프트, 수정 이유, 결과 차이와 후가공 내용을 기록했습니다.
-- 코랩 세션 리포트는 조별 세션 후 `코랩세션리포트.md`로 추가합니다.
+| 산출물 | 제출 자료 |
+|---|---|
+| 1. UI 디자인 이미지 3장 | [메인 · 홈](ui/화면1_메인.png) · [목록 · 여행 홈](ui/화면2_목록.png) · [상세 · 공산성 산책](ui/화면3_상세.png) |
+| 2. 작업 로그 1개 | 초안 → 수정 → 최종의 실제 입력 프롬프트, 변경 이유와 결과 차이. [작업로그.md](작업로그.md) |
+| 3. Figma 프로젝트 1개 | [디자인 파일](https://www.figma.com/design/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=0-1) · [클릭 시연](https://www.figma.com/proto/L79jkVEj1gDi1gKLEOAZqL/%EC%96%B4%EB%94%94%EA%B0%88%EA%B9%8C-%C2%B7-%EA%B3%B5%EC%A3%BC-%EC%97%AC%ED%96%89-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B4%88%EC%95%88?node-id=1-43&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [Hotspot 캡처](figma/화면흐름_Hotspot.png) |
+| 4. 코랩 세션 리포트 1개 | 조별 세션에서 각자 만든 화면과 제작 방법을 비교한 뒤 `코랩세션리포트.md`로 추가합니다. |
